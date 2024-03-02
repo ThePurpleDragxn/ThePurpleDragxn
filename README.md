@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThePurpleDragxn
 - 👀 I’m interested in Web-development.
-- 🌱 I’m currently learning CSS and Blazor.
+- 🌱 I’m currently mastering Javascript. 
 - 📫 How to reach me: qoisMRN@gmail.com
 
 <!---
